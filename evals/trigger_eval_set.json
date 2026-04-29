@@ -1,0 +1,12 @@
+{
+  "name": "tyc-vendor-assessment-eval",
+  "version": "1.0.0",
+  "triggers": [
+    "评估这个供应商",
+    "/tyc-vendor 某供应商",
+    "我要评估供应商",
+    "做一份供应商评估报告",
+    "Kraljic 矩阵供应商分类",
+    "9 维度供应商评估"
+  ]
+}
