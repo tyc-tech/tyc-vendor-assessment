@@ -2,7 +2,7 @@
 
 ## 数据源
 
-本仓 `/tyc-vendor` SKILL 通过单一 MCP server `tyc` 调用天眼查 T1.1 业务语义聚合层 167 个工具。
+本仓 `/tyc-vendor` SKILL 通过单一 MCP server `tyc` 调用天眼查 T1.1 业务语义聚合层 163 个工具。
 
 ```
 MCP endpoint: https://ai-mcp.tianyancha.com/mcp
