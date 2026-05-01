@@ -5,7 +5,7 @@
 本仓 `/tyc-vendor` SKILL 通过单一 MCP server `tyc` 调用天眼查 T1.1 业务语义聚合层 163 个工具。
 
 ```
-MCP endpoint: https://ai-mcp.tianyancha.com/mcp
+MCP endpoint: https://mcp.tianyancha.com/v1
 Auth:         ${TYC_MCP_API_KEY}
 ```
 
@@ -52,7 +52,7 @@ Markdown 评估报告
 ```bash
 # 验证 MCP 连通
 curl -H "Authorization: $TYC_MCP_API_KEY" \
-  https://ai-mcp.tianyancha.com/mcp
+  https://mcp.tianyancha.com/v1
 
 # 查看 tyc-cli（可选，命令行调试工具）
 npm install -g tyc-cli
